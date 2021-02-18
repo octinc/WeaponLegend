@@ -1,0 +1,2 @@
+# WeaponLegend
+Legend of Weapon
